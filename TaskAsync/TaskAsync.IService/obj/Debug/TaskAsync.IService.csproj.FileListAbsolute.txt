@@ -1,0 +1,9 @@
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.IService\bin\Debug\TaskAsync.IService.dll
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.IService\bin\Debug\TaskAsync.IService.pdb
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.IService\bin\Debug\TaskAsync.Model.dll
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.IService\bin\Debug\TaskAsync.Model.pdb
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.IService\obj\Debug\TaskAsync.IService.csprojAssemblyReference.cache
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.IService\obj\Debug\TaskAsync.IService.csproj.CoreCompileInputs.cache
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.IService\obj\Debug\TaskAsync.IService.csproj.CopyComplete
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.IService\obj\Debug\TaskAsync.IService.dll
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.IService\obj\Debug\TaskAsync.IService.pdb

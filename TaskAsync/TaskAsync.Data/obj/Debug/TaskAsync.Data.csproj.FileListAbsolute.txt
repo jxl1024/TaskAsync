@@ -1,0 +1,16 @@
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\bin\Debug\TaskAsync.Data.dll.config
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\bin\Debug\TaskAsync.Data.dll
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\bin\Debug\TaskAsync.Data.pdb
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\bin\Debug\EntityFramework.dll
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\bin\Debug\TaskAsync.Model.dll
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\bin\Debug\TaskAsync.Model.pdb
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\bin\Debug\EntityFramework.xml
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\obj\Debug\TaskAsync.Data.csprojAssemblyReference.cache
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\obj\Debug\TaskAsync.Data.csproj.CoreCompileInputs.cache
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\obj\Debug\TaskAsync.Data.csproj.CopyComplete
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\obj\Debug\TaskAsync.Data.dll
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\obj\Debug\TaskAsync.Data.pdb
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\obj\Debug\TaskAsync.Data.Migrations.Init.resources
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Data\obj\Debug\TaskAsync.Data.csproj.GenerateResource.cache

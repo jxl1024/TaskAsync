@@ -1,0 +1,5 @@
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Model\bin\Debug\TaskAsync.Model.dll
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Model\bin\Debug\TaskAsync.Model.pdb
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Model\obj\Debug\TaskAsync.Model.csproj.CoreCompileInputs.cache
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Model\obj\Debug\TaskAsync.Model.dll
+F:\Project\多线程\异步增删改查\TaskAsync\TaskAsync.Model\obj\Debug\TaskAsync.Model.pdb
